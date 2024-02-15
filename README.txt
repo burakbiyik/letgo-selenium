@@ -1,0 +1,1 @@
+A simple selenium script was written to search for errors on the Letgo site. SDK ver. 11 Land level 6
